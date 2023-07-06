@@ -1,0 +1,5 @@
+Thứ tự run file sẽ là:
+1. script_create_CSDLQH
+2. RBTV
+3. Procedure
+4. insert_data_sample

@@ -1,0 +1,2 @@
+Backend: https://github.com/Tthanhwork94/foodorder/tree/master
+Frontend: https://github.com/Tthanhwork94/csdlnc-frontend
